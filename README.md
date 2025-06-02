@@ -37,6 +37,8 @@ It’s a fun project for beginners to practice **JavaScript**, **DOM manipulatio
 2. Open the `index.html` file in your web browser.
 3. Start guessing and have fun!
 
+
+![Image](https://github.com/user-attachments/assets/cedd6504-bfb9-4b1f-811b-2ce5639d5acb)
 ```bash
 git clone https://github.com/yourusername/number-guessing-game.git
 cd number-guessing-game
